@@ -1,3 +1,13 @@
+Name: Mohammed Bilal M
+
+Intern id: CS25RY20902
+
+Domain name: Codsoft
+
+Stream: Python Programming
+
+Task 2: Simple Calculator
+
 The task is to do a simple calculator that can perform basic arithmetic operations: addition, subtraction, multiplication, and division. Here's a detailed description of its functionality:
 
 1. Function Definition: calculator()
@@ -42,6 +52,8 @@ Error Handling: The code handles errors such as invalid input types (non-numeric
 User-Friendly Output: Clear prompts are given for user inputs, and the result of the operation is clearly displayed.
 
 This code provides a simple and functional calculator program that handles basic arithmetic operations and errors. It uses fundamental Python features like input(), try-except, and conditional statements to achieve its functionality.
+
+Thanks for the Codsoft team for giving this opportunity to be a part of this journey.
 
 Output->
 
